@@ -1,0 +1,7 @@
+/bin/
+
+# Ignora tudo com `.QualquerCoisa`
+.*
+
+# Não ignora o `.gitignore`
+!.gitignore
