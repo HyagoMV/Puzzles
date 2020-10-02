@@ -1,5 +1,9 @@
 package a;
 
+/*
+ * Se o bit menos significativo for 0 o número é PAR
+ * Se o bit menos significativo for 1 o número é ÍMPAR
+ */
 public class ParOuImpa {
 
 	public static void main(String[] args) {
